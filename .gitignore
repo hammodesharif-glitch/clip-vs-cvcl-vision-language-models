@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Data & models (not tracked)
+my_images/
+data/
+*.ckpt
+*.pt
+*.pth
+multimodal-baby/
+lightning_logs/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
